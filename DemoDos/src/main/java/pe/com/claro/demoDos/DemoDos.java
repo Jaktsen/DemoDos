@@ -6,6 +6,7 @@ public class DemoDos {
 		
 		
 		System.out.println("Demo dos");
+		System.out.println("Nuevas pruebas");
 	}
 
 }
